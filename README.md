@@ -7,6 +7,6 @@
 
  >pip install wave
 
- >pip installpyaudio
+ >pip install pyaudio
 
- >pip installpathlib
+ >pip install pathlib
