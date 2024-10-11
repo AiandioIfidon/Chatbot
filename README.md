@@ -1,6 +1,6 @@
 # Chatbot
  Python chatbot made using google's gemini API and 'pyttsx3' for text to speech
- Dependencies:
+>Dependencies:
  `````
  pip install googlegenerativeai
  pip install pyttsx3
